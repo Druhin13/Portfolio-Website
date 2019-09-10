@@ -41,7 +41,6 @@
 }
 
 .name1 {
-    position: absolute;
     z-index: 5;
     width: auto;
     height: auto;
@@ -68,5 +67,4 @@
     font-stretch: normal;
     letter-spacing: normal;
     color: transparent;
-    margin-left: 1%;
 }
