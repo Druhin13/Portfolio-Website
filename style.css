@@ -40,6 +40,11 @@
     z-index: 0;
 }
 
+.logo {
+    margin-top: 4vh;
+    margin-left: 4%;
+}
+
 .name1 {
     margin-left: 6%;
     margin-top: 5%;
@@ -113,14 +118,14 @@
     display: flex;
 }
 
-.tarafder1 {   
+.tarafder1 {
     -webkit-text-stroke: 0.15vw #111214;
     font-family: 'Sorts Mill Goudy', 'Perpetua', serif;
     font-size: 9.55vh;
-    font-weight: normal;
+    font-weight: bold;
     font-style: normal;
     font-stretch: normal;
-    letter-spacing: normal;
+    letter-spacing: 0.3vw;
     color: #111214;
 }
 
@@ -135,12 +140,11 @@
 }
 
 .tarafder2 {
-
     font-family: 'Sorts Mill Goudy', 'Perpetua', serif;
     font-size: 9.55vh;
-    font-weight: normal;
+    font-weight: bold;
     font-style: normal;
     font-stretch: normal;
-    letter-spacing: normal;
+    letter-spacing: 0.3vw;
     color: #E7EDEC;
 }
