@@ -124,3 +124,24 @@
     letter-spacing: normal;
     color: #111214;
 }
+
+.title2 {
+    margin-left: 29.5%;
+    margin-top: 22%;
+    position: absolute;
+    z-index: 4.5;
+    width: auto;
+    height: auto;
+    display: flex;
+}
+
+.tarafder2 {
+    -webkit-text-stroke: 0.15vw #E7EDEC;
+    font-family: 'Sorts Mill Goudy', 'Perpetua', serif;
+    font-size: 9.55vh;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    color: #E7EDEC;
+}
