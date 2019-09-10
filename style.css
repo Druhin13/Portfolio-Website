@@ -83,7 +83,6 @@
 }
 
 .druh2 {
-    -webkit-text-stroke: 0.15vw #E7EDEC;
     font-family: 'Sorts Mill Goudy', 'Perpetua', serif;
     font-size: 14vh;
     font-weight: normal;
@@ -114,7 +113,7 @@
     display: flex;
 }
 
-.tarafder1 {
+.tarafder1 {   
     -webkit-text-stroke: 0.15vw #111214;
     font-family: 'Sorts Mill Goudy', 'Perpetua', serif;
     font-size: 9.55vh;
@@ -136,7 +135,7 @@
 }
 
 .tarafder2 {
-    -webkit-text-stroke: 0.15vw #E7EDEC;
+
     font-family: 'Sorts Mill Goudy', 'Perpetua', serif;
     font-size: 9.55vh;
     font-weight: normal;
