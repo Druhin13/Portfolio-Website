@@ -6,7 +6,7 @@
 .green {
     width: 64.5%;
     height: 52.96vh;
-    background-color: #bcdbd6;
+    background-color: #BCDBD6;
     position: absolute;
     z-index: 1;
 }
@@ -14,7 +14,7 @@
 .red {
     width: 51.32%;
     height: 54.58vh;
-    background-color: #f15c50;
+    background-color: #F15C50;
     position: absolute;
     bottom: 0;
     z-index: 3;
@@ -23,7 +23,7 @@
 .yellow {
     width: 64.5%;
     height: 47.03vh;
-    background-color: #f6c450;
+    background-color: #F6C450;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -161,4 +161,16 @@
 
 .line {
     width: 70.5%;
+}
+
+.red p {
+    opacity: 0.75;
+    -webkit-text-stroke: 1.7px #111214;
+    font-size: 3vh;
+    font-weight: normal;
+    font-style: italic;
+    font-stretch: normal;
+    line-height: 1.18;
+    letter-spacing: normal;
+    color: #111214;
 }
