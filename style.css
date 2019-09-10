@@ -41,6 +41,8 @@
 }
 
 .name1 {
+    margin-left: 6%;
+    margin-top: 5%;
     z-index: 5;
     width: auto;
     height: auto;
@@ -68,3 +70,5 @@
     letter-spacing: normal;
     color: transparent;
 }
+
+
