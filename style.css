@@ -1,4 +1,41 @@
-*{
+* {
     padding: 0;
     margin: 0;
+}
+
+.green {
+    width: 64.5%;
+    height: 52.96vh;
+    background-color: #bcdbd6;
+    position: absolute;
+    z-index: 1;
+}
+
+.red {
+    width: 51.32%;
+    height: 54.58vh;
+    background-color: #f15c50;
+    position: absolute;
+    bottom: 0;
+    z-index: 3;
+}
+
+.yellow {
+    width: 64.5%;
+    height: 47.03vh;
+    background-color: #f6c450;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+}
+
+.black {
+    width: 100%;
+    height: 100vh;
+    background-color: #111214;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
 }
