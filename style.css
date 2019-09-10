@@ -148,3 +148,17 @@
     letter-spacing: 0.3vw;
     color: #E7EDEC;
 }
+
+.logoline {
+    margin-left: 22%;
+    margin-top: 28%;
+    position: absolute;
+    z-index: 4.5;
+    width: auto;
+    height: auto;
+    display: flex;
+}
+
+.line {
+    width: 70.5%;
+}
