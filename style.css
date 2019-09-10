@@ -39,3 +39,17 @@
     left: 0;
     z-index: 0;
 }
+
+.druh {
+    -webkit-text-stroke: 0.30vh #111214;
+    font-family: Perpetua;
+    font-size: 8vw;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.15;
+    letter-spacing: normal;
+    color: #111214;
+    position: absolute;
+    z-index: 4;
+}
