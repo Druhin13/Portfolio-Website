@@ -40,6 +40,14 @@
     z-index: 0;
 }
 
+.name1 {
+    position: absolute;
+    z-index: 5;
+    width: auto;
+    height: auto;
+    display: flex;
+}
+
 .druh {
     -webkit-text-stroke: 0.25vw #111214;
     font-family: 'Sorts Mill Goudy', 'Perpetua', serif;
@@ -49,7 +57,16 @@
     font-stretch: normal;
     letter-spacing: normal;
     color: #111214;
-    position: absolute;
-    z-index: 5;
+}
 
+.in {
+    -webkit-text-stroke: 0.25vw #111214;
+    font-family: 'Sorts Mill Goudy', 'Perpetua', serif;
+    font-size: 14vh;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    color: transparent;
+    margin-left: 1%;
 }
