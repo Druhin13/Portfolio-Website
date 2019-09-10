@@ -50,7 +50,7 @@
     display: flex;
 }
 
-.druh {
+.druh1 {
     -webkit-text-stroke: 0.25vw #111214;
     font-family: 'Sorts Mill Goudy', 'Perpetua', serif;
     font-size: 14vh;
@@ -61,7 +61,7 @@
     color: #111214;
 }
 
-.in {
+.in1 {
     -webkit-text-stroke: 0.25vw #111214;
     font-family: 'Sorts Mill Goudy', 'Perpetua', serif;
     font-size: 14vh;
@@ -102,4 +102,25 @@
     font-stretch: normal;
     letter-spacing: normal;
     color: transparent;
+}
+
+.title1 {
+    margin-left: 26%;
+    margin-top: 18.5%;
+    position: absolute;
+    z-index: 5;
+    width: auto;
+    height: auto;
+    display: flex;
+}
+
+.tarafder1 {
+    -webkit-text-stroke: 0.15vw #111214;
+    font-family: 'Sorts Mill Goudy', 'Perpetua', serif;
+    font-size: 9.55vh;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    color: #111214;
 }
