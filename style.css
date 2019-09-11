@@ -178,4 +178,5 @@
 .grid {
     height: auto;
     width: 100%;
+    bottom: 0;
 }
