@@ -174,3 +174,8 @@
     letter-spacing: normal;
     color: #111214;
 }
+
+.grid {
+    height: auto;
+    width: 100%;
+}
