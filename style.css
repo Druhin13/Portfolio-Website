@@ -165,6 +165,11 @@
     width: 70.5%;
 }
 
+.code {
+    margin-top: 5vh;
+    position: absolute;
+}
+
 .red p {
     opacity: 0.75;
     -webkit-text-stroke: 1.7px #111214;
