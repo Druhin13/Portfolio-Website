@@ -180,6 +180,6 @@
 .grid {
     position: absolute;
     height: auto;
-    width: 100%;
-    margin: 0;
+    width: 90%;
+    margin-bottom: 0;
 }
