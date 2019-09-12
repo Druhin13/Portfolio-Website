@@ -189,6 +189,19 @@
     margin-top: 5.5vh;
 }
 
-.uiux{
+.uiux {
     position: absolute;
+    width: 1145px;
+    height: 407px;
+    opacity: 0.9;
+    -webkit-text-stroke: 2px #111214;
+    font-family: LucidaCalligraphy;
+    font-size: 400px;
+    font-weight: normal;
+    font-style: italic;
+    font-stretch: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #111214;
 }
