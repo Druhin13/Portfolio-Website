@@ -12,6 +12,8 @@
 }
 
 .red {
+    margin: 0;
+    padding: 0;
     width: 51.32%;
     height: 54.58vh;
     background-color: #F15C50;
@@ -178,5 +180,5 @@
 .grid {
     height: auto;
     width: 100%;
-    bottom: 0;
+    margin: 0;
 }
