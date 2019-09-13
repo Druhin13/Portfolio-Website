@@ -195,12 +195,14 @@
     color: #111214;
 }
 
-.grid_holder {}
+.grid_holder {
+    position: absolute;
+    margin-top: 35%;
+    height: 100%;
+}
 
 .grid {
     width: 90%;
-    margin-bottom: 0;
-    margin-top: 5.5vh;
 }
 
 .uiux {
