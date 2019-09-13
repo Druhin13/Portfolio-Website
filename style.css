@@ -211,14 +211,16 @@
     position: absolute;
     height: 100%;
     width: 100%;
-    margin-top: 25%;
+    margin-top: 41%;
 }
 
 .uiux {
+    margin-left: 1%;
     opacity: 0.9;
     font-family: LucidaCalligraphy;
     font-size: 220px;
     font-style: italic;
     letter-spacing: normal;
+    line-height: 30%;
     color: #111214;
 }
