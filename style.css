@@ -195,8 +195,11 @@
     color: #111214;
 }
 
-.grid {
+.gtid_holder {
     position: absolute;
+}
+
+.grid {
     width: 90%;
     margin-bottom: 0;
     margin-top: 5.5vh;
