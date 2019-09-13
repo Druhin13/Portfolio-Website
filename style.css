@@ -166,6 +166,7 @@
 }
 
 .code_holder {
+    width: 51.32%;
     margin-top: 5vh;
     margin-left: 2%;
     position: absolute;
@@ -187,10 +188,9 @@
     opacity: 0.75;
     -webkit-text-stroke: 1.7px #111214;
     font-size: 3vh;
-    font-weight: normal;
+    font-weight: semi-bold;
     font-style: italic;
     font-stretch: normal;
-    line-height: 1.18;
     letter-spacing: normal;
     color: #111214;
 }
