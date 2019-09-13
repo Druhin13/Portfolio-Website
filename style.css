@@ -197,8 +197,10 @@
 
 .grid_holder {
     position: absolute;
+    margin-bottom: 0;
     margin-top: 35%;
     height: 100%;
+    width: 100%;
 }
 
 .grid {
@@ -207,6 +209,7 @@
 
 .uiux_holder {
     position: absolute;
+    height: 100%;
 }
 
 .uiux {
@@ -219,8 +222,6 @@
     font-weight: normal;
     font-style: italic;
     font-stretch: normal;
-    line-height: 1.36;
     letter-spacing: normal;
-    text-align: left;
     color: #111214;
 }
