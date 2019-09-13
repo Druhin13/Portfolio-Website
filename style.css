@@ -166,7 +166,7 @@
 }
 
 .code_holder {
-    width: 51.32%;
+    width: 98%;
     margin-top: 5vh;
     margin-left: 2%;
     position: absolute;
@@ -195,9 +195,7 @@
     color: #111214;
 }
 
-.gtid_holder {
-    position: absolute;
-}
+.grid_holder {}
 
 .grid {
     width: 90%;
