@@ -165,8 +165,9 @@
     width: 70.5%;
 }
 
-.code {
+.code_holder {
     margin-top: 5vh;
+    margin-left: 2%;
     position: absolute;
 }
 
