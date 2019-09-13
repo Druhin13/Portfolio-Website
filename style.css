@@ -170,6 +170,10 @@
     position: absolute;
 }
 
+.code4 {
+    margin-left: 4%;
+}
+
 .red p {
     opacity: 0.75;
     -webkit-text-stroke: 1.7px #111214;
