@@ -205,8 +205,11 @@
     width: 90%;
 }
 
-.uiux {
+.uiux_holder {
     position: absolute;
+}
+
+.uiux {
     width: 1145px;
     height: 407px;
     opacity: 0.9;
