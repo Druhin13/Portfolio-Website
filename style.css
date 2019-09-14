@@ -226,18 +226,17 @@
 
 resume_holder {
     position: absolute;
-    z-index: 5;
+    z-index: 2;
 }
 
 resume_holder h1 {
+    padding-left: 90%;
     -webkit-text-stroke: 3px #111214;
     font-family: VarelaRound;
     font-size: 70px;
     font-weight: normal;
     font-style: normal;
     font-stretch: normal;
-    line-height: 1.2;
     letter-spacing: 3.5px;
-    text-align: left;
     color: #111214;
 }
