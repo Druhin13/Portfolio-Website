@@ -224,6 +224,20 @@
     color: #111214;
 }
 
-resume_holder {}
+resume_holder {
+    position: absolute;
+    z-index: 5;
+}
 
-resume_holder h1 {}
+resume_holder h1 {
+    -webkit-text-stroke: 3px #111214;
+    font-family: VarelaRound;
+    font-size: 70px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 3.5px;
+    text-align: left;
+    color: #111214;
+}
