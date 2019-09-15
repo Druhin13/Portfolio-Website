@@ -240,3 +240,8 @@ resume_holder h1 {
     letter-spacing: 3.5px;
     color: #111214;
 }
+
+.graphic_holder {
+    position: absolute;
+    margin-left: 50%;
+}
