@@ -243,5 +243,13 @@ resume_holder h1 {
 
 .graphic_holder {
     position: absolute;
-    margin-left: 50%;
+    margin-left: 75%;
+    width: 25%;
+    height: 100vh;
+
+}
+
+.graphic_holder img {
+    position: absolute;
+    height: 100%;
 }
