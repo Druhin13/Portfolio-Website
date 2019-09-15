@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+body {
+    overflow: hidden;
+}
+
 .green {
     width: 64.5%;
     height: 52.96vh;
