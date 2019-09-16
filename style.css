@@ -236,7 +236,7 @@ resume_holder {
 resume_holder h1 {
     padding-left: 90%;
     -webkit-text-stroke: 3px #111214;
-    font-family: VarelaRound;
+    font-family: VarelaRound; //font needs to be changed
     font-size: 70px;
     font-weight: normal;
     font-style: normal;
